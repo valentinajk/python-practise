@@ -1,0 +1,1 @@
+This is a very simple python program to create a gui ! we just tell the computer to understand the zeros as empty space and 1 as a pixel(star) and we create any shapes and pictures we want just using the o's and 1's
